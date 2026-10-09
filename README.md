@@ -15,11 +15,15 @@ Analyze global COVID-19 data to understand how cases, deaths, infection rates, a
 ## 📁 Project Structure
 
 ```text
+
 ├── data/
 │   ├── CovidDeathsUpdated.csv        # COVID-19 cases and deaths dataset
 │   └── CovidVaccinationUpdated.csv   # COVID-19 vaccination dataset
+├── COVID-19 Logical Data Model.png   # Logical data model diagram
 ├── covid19_data_exploration.sql      # SQL data exploration and analysis
 └── README.md                         # Project documentation
+```
+                      # Project documentation
 ```
 
 ## 📈 Key Analysis
