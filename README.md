@@ -1,6 +1,8 @@
 # 📊 COVID-19 SQL Data Analysis
 
-This project explores global **COVID-19 cases, deaths, infection rates, and vaccination trends** using MySQL. The analysis includes data quality checks, exploratory data analysis, geographic comparisons, and vaccination tracking using SQL techniques such as joins, CTEs, temporary tables, window functions, and views.
+Analyzing global COVID-19 data presents challenges in comparing infection rates, mortality, and vaccination progress across countries and over time. This project uses MySQL to explore COVID-19 cases, deaths, and vaccination datasets, calculate population-adjusted metrics, and identify geographic and time-based trends.
+
+The analysis includes data quality checks, joins, CTEs, window functions, temporary tables, and views to organize data and support consistent comparisons.
 
 ## 🎯 Objective
 
